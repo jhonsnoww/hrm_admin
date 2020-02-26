@@ -1,13 +1,13 @@
-const states = {
+const state = {
 }
 const mutations = {}
 
-const actions = {}
+const actions={}
 
 const getters = {}
 
 export default {
-    states,
+    state,
     mutations,
     actions,
     getters
