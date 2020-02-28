@@ -4,8 +4,9 @@ import employees from './modules/employees'
 
 Vue.use(Vuex)
 
-new Vuex.Store({
+const store = new Vuex.Store({
     modules:{
         employees
     }
 })
+export default store;
